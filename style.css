@@ -1,0 +1,27 @@
+.input-text {
+    text-align: center;
+  width: 350px;
+}
+
+.border {
+    display: inline-block;
+  letter-spacing: 10px;
+  margin-top: 20px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border: 1px solid black;
+  padding: 15px;
+  background-color: rgba(255, 0, 0, 0.425);
+}
+p {
+  font-size: 25px;
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}
+h2{
+    text-align: center;
+}
+.input{
+    text-align: center;
+}
